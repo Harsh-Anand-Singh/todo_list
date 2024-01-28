@@ -1,3 +1,4 @@
+# Harsh Anand Singh's Magical To-Do List
 <table align="center" style="border-collapse: collapse;">
   <tr>
     <td style="border: none;"><a href="https://www.linkedin.com/in/harsh-anand-singh-66a113210/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
@@ -7,7 +8,7 @@
     <td style="border: none;"><a href="https://leetcode.com/harsh786anand/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a></td>
   </tr>
 </table>
-# Harsh Anand Singh's To-Do List
+
 
 ### Project Summary
 
