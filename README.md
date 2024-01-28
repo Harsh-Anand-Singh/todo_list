@@ -1,4 +1,4 @@
-# Harsh Anand Singh's Super To-Do App
+# Harsh Anand Singh's Super To-Do Web App
 <table align="center" style="border-collapse: collapse;">
   <tr>
     <td style="border: none;"><a href="https://www.linkedin.com/in/harsh-anand-singh-66a113210/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
