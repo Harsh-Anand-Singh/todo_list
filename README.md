@@ -1,56 +1,71 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BantealemG)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/bantealem-geto-a301b9213/)
-# Bantealem-To Do List
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td style="border: none;"><a href="https://www.linkedin.com/in/harsh-anand-singh-66a113210/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
+    <td style="border: none;"><a href="https://stackoverflow.com/users/23025053/harsh-anand-singh/"><img src="https://img.shields.io/badge/stackoverflow-%23FF5722.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a></td>
+    <td style="border: none;"><a href="https://www.instagram.com/harsh_786_anand/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a></td>
+    <td style="border: none;"><a href="mailto:harsh786anand@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></td>
+    <td style="border: none;"><a href="https://leetcode.com/harsh786anand/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a></td>
+  </tr>
+</table>
+# Harsh Anand Singh-To Do List
 
-In this project, I will build a simple HTML list of To Do tasks. The list will be styled according to the specifications listed later in this lesson. This simple web page will be built using webpack and served by a webpack dev server
+### Project Summary
 
-## Built With ⚙️
-HTML
-Basic CSS
-JavaScript and ES6 syntax
-Webpack
-Linters (Lighthouse, Webhint, Stylelint, Eslint)
-Git/GitHub work-flow
+**MERN Stack Todo List**
 
-## LIVE DEMO
-[Live Demo](https://thunderous-biscuit-f6cb27.netlify.app/)
+Designed and implemented a sophisticated Todo List application leveraging the MERN stack (MongoDB, Express.js, React.js, Node.js) with a focus on delivering a seamless and feature-rich user experience. The application incorporates advanced functionalities, including user authentication, real-time collaboration, task prioritization, and comprehensive task management features such as due dates, priority levels, and task categories. The project showcases proficiency in frontend development using React.js with Redux for state management, backend development with Node.js and Express.js, and MongoDB for robust and scalable data storage. Real-time communication is achieved through the integration of Socket.io. The application's codebase adheres to best practices in software development, emphasizing modularity, scalability, and maintainability.
+
+**Key Features:**
+- User Authentication
+- Real-Time Updates with Socket.io
+- Task Creation, Modification, and Deletion
+- Task Categories and Prioritization
+- Due Dates and Reminders
+- Collaborative Features: Comments and Attachments
+- Search and Filter Functionality
+- Analytics for Task Completion Trends
+
+**Technologies Used:**
+- Frontend: React.js, Redux, React Router, Axios
+- Backend: Node.js, Express.js, MongoDB with Mongoose, Passport.js for authentication
+- Real-Time Communication: Socket.io
+
+**Contributions:**
+- Developed a responsive and intuitive user interface for seamless task management.
+- Implemented a robust backend system with secure user authentication and authorization.
+- Integrated real-time updates using Socket.io, enabling collaborative task management.
+- Employed Redux for state management, ensuring efficient data flow and a consistent user experience.
+- Incorporated features such as task categories, due dates, and priority levels for enhanced organization.
+
+**Results:**
+The project serves as a showcase of technical proficiency in full-stack development, real-time communication, and the implementation of advanced features in a web application. The application provides a comprehensive solution for efficient task management and collaboration.
+
+**Future Enhancements:**
+Ongoing development includes further refinement of user interface elements, additional analytics features, and the integration of third-party services for extended functionality.
+
 
 ## Getting Started
 
-you can clone the repository by using the command below and run the "npm install" command to install the necessary tools
+You can clone the repository by using the command below and run the "npm install" command to install the necessary tools
 
- https://github.com/Bantealem/my-to-do-list.git
+ https://github.com/Harsh-Anand-Singh/todo_list.git
 
 ### Setup
 
 ```cmd
-git clone git@github.com:Bantealem/my-to-do-list.git
+git clone git@github.com:Harsh-Anand-Singh/todo_list.git
 npm install
 npm run build
 npm start
 ```
 
-If you are non a technical person you can download the zip file.
-
-- To do that you have to go to the green button that says 'Code' and then press on it.
-- Choose the option 'Download Zip' and wait until it download.
-- Then you need to decompress it.
-- You will need to have Zip compress file software installed in your computer. If you don't have it you can download it from here
-- Do double click on the Capstone-1.zip and choose a folder where to place all the decompressed files.
-- Once you are done decompressing, you can open the created folder.
-- In it you can double click on the index.html file and choose a browser to open it (For example google Chrome Browser).
-- Now you should be able to see the project.
-- Remember to use the mouse to navigate through the website. Also you can use the keys 'arrow up' and 'arrow down' of your keyboard
-  to scroll up and down.
 
 ## Authors
 
-👤 **Bantealem-Geto**
+👤 **Harsh Anand Singh**
 
-- GitHub: [Bantealem](https://github.com/Bantealem)
-- Twitter: [Bantealem](https://twitter.com/BantealemG)
-- LinkedIn: [Bantealem](https://www.linkedin.com/in/bantealem-geto-a301b9213/)
+- GitHub: [Harsh](https://github.com/Harsh-Anand-Singh/)
+- LinkedIn: [Harsh](https://www.linkedin.com/in/harsh-anand-singh-66a113210/)
 
 
 ## 🤝 Contributing
@@ -61,12 +76,3 @@ Contributions, issues, and feature requests are welcome!
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-## Acknowledgments
-
-- [Microverse](https://www.microverse.org/)
-- Code Reviewers
-- Coding Partners
-- Hat tip to anyone whose code was used
-- Inspira
