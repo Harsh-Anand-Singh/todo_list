@@ -7,13 +7,13 @@
     <td style="border: none;"><a href="https://leetcode.com/harsh786anand/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a></td>
   </tr>
 </table>
-# Harsh Anand Singh-To Do List
+# Harsh Anand Singh's To-Do List
 
 ### Project Summary
 
-**MERN Stack Todo List**
+**Magical To-Do List**
 
-Designed and implemented a sophisticated Todo List application leveraging the MERN stack (MongoDB, Express.js, React.js, Node.js) with a focus on delivering a seamless and feature-rich user experience. The application incorporates advanced functionalities, including user authentication, real-time collaboration, task prioritization, and comprehensive task management features such as due dates, priority levels, and task categories. The project showcases proficiency in frontend development using React.js with Redux for state management, backend development with Node.js and Express.js, and MongoDB for robust and scalable data storage. Real-time communication is achieved through the integration of Socket.io. The application's codebase adheres to best practices in software development, emphasizing modularity, scalability, and maintainability.
+Here, I designed and implemented a sophisticated Todo List application leveraging the MERN stack (MongoDB, Express.js, React.js, Node.js) with a focus on delivering a seamless and feature-rich user experience. The application incorporates advanced functionalities, including user authentication, real-time collaboration, task prioritization, and comprehensive task management features such as due dates, priority levels, and task categories. The project showcases proficiency in frontend development using React.js with Redux for state management, backend development with Node.js and Express.js, and MongoDB for robust and scalable data storage. Real-time communication is achieved through the integration of Socket.io. The application's codebase adheres to best practices in software development, emphasizing modularity, scalability, and maintainability.
 
 **Key Features:**
 - User Authentication
