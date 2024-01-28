@@ -20,11 +20,10 @@ Here, I designed and implemented a sophisticated Todo List application leveragin
 - User Authentication
 - Task Creation, Modification, and Deletion
 - Task Categories and Prioritization
-- Due Dates and Reminders
+
 
 **Contributions:**
 - Developed a responsive and intuitive user interface for seamless task management.
-- Implemented a robust backend system with secure user authentication and authorization.
 - Employed Redux for state management, ensuring efficient data flow and a consistent user experience.
 - Incorporated features such as task categories, due dates, and priority levels for enhanced organization.
 
