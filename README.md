@@ -21,10 +21,6 @@ Here, I designed and implemented a sophisticated Todo List application leveragin
 - Task Creation, Modification, and Deletion
 - Task Categories and Prioritization
 - Due Dates and Reminders
-- Collaborative Features: Comments and Attachments
-- Search and Filter Functionality
-- Analytics for Task Completion Trends
-
 
 **Contributions:**
 - Developed a responsive and intuitive user interface for seamless task management.
