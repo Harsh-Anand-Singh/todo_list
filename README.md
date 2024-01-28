@@ -14,11 +14,10 @@
 
 **Magical To-Do List**
 
-Here, I designed and implemented a sophisticated Todo List application leveraging the MERN stack (MongoDB, Express.js, React.js, Node.js) with a focus on delivering a seamless and feature-rich user experience. The application incorporates advanced functionalities, including user authentication, real-time collaboration, task prioritization, and comprehensive task management features such as due dates, priority levels, and task categories. The project showcases proficiency in frontend development using React.js with Redux for state management, backend development with Node.js and Express.js, and MongoDB for robust and scalable data storage. Real-time communication is achieved through the integration of Socket.io. The application's codebase adheres to best practices in software development, emphasizing modularity, scalability, and maintainability.
+Here, I designed and implemented a sophisticated Todo List application leveraging the MERN stack (MongoDB, Express.js, React.js, Node.js) with a focus on delivering a seamless and feature-rich user experience. The application incorporates advanced functionalities, including user authentication, task prioritization, and comprehensive task management features such as due dates, priority levels, and task categories. The project showcases proficiency in frontend development using React.js with Redux for state management, backend development with Node.js and Express.js, and MongoDB for robust and scalable data storage. The application's codebase adheres to best practices in software development, emphasizing modularity, scalability, and maintainability.
 
 **Key Features:**
 - User Authentication
-- Real-Time Updates with Socket.io
 - Task Creation, Modification, and Deletion
 - Task Categories and Prioritization
 - Due Dates and Reminders
@@ -26,20 +25,13 @@ Here, I designed and implemented a sophisticated Todo List application leveragin
 - Search and Filter Functionality
 - Analytics for Task Completion Trends
 
-**Technologies Used:**
-- Frontend: React.js, Redux, React Router, Axios
-- Backend: Node.js, Express.js, MongoDB with Mongoose, Passport.js for authentication
-- Real-Time Communication: Socket.io
 
 **Contributions:**
 - Developed a responsive and intuitive user interface for seamless task management.
 - Implemented a robust backend system with secure user authentication and authorization.
-- Integrated real-time updates using Socket.io, enabling collaborative task management.
 - Employed Redux for state management, ensuring efficient data flow and a consistent user experience.
 - Incorporated features such as task categories, due dates, and priority levels for enhanced organization.
 
-**Results:**
-The project serves as a showcase of technical proficiency in full-stack development, real-time communication, and the implementation of advanced features in a web application. The application provides a comprehensive solution for efficient task management and collaboration.
 
 **Future Enhancements:**
 Ongoing development includes further refinement of user interface elements, additional analytics features, and the integration of third-party services for extended functionality.
